@@ -17,8 +17,6 @@ PowerBI.md
 :maxdepth: 2
 :caption: Programming Languages
 
-Python.md
-Requests.md
 ```
 
 ```{toctree}
